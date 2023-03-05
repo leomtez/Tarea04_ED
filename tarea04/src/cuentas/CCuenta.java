@@ -29,6 +29,10 @@ public class CCuenta {
 	        setCuenta(cue);
 	        setSaldo(sal);
 	    }
+	    /**
+	     * metodo que devuelve el saldo actual
+	     * @return
+	     */
 
 	    public double estado()
 	    {
