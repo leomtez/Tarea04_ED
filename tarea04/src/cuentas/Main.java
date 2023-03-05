@@ -1,4 +1,4 @@
-package tarea04;
+package cuentas;
 
 public class Main {
 
